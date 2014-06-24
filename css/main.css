@@ -3,18 +3,91 @@
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+body{
+
+  background-color:black;
+
+}
+.container1{
+
+   background-image: url("images/bg-1.jpg");
+}
+.image1{
+      
+    background-image: url("images/bg-1.jpg");
+    height:1200px;
+    width:1200px; 
+    top:0px;
+    padding-left:100px;
+   
+}
+
+.text1{
+
+     text-align:center;
+     text-color:#FFFFFF; 
+   }
+
+.screenshot{
+
+   
+   height:150px;
+   width:200px;
+   padding-right:30;
+   
+}
+ .screenshotcraft{
+
+   
+   height:150px;
+   width:500px;
+  background-color:green;
+   
+}
+
+#btn{
+
+   padding-right:70;
+}
+
+#footertext{
+
+    padding-right:30px;
+}
+
+.containerlast{
+
+   background-color:#25383C;
+
+}
+
+.secondcontainer{
+
+  padding-left:100px;
+}
 
 
+.foot{
+
+  top:50px;
+}
 
 
+.item1{
+      
+        width:1100px;
+	margin-left:100px; 
+        background-color:#FFFFFF;
+     
+}
 
-
-
-
-
-
-
-
+.item2{
+      
+        width:1100px;
+	margin-left:100px; 
+        background-color:#0CF22F;
+        top:0px;
+}
 
 
 
