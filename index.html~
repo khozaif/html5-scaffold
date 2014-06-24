@@ -63,10 +63,7 @@
           <img class="image1"  src="images/bg-2.jpg" alt="Second slide">
           <div class="container">
             <div class="carousel-caption">
-              <div class="carousel-caption">
-              		<h1>Example headline.</h1>
-              		<p><a class="btn btn-lg btn-primary" href="#" role="button">ontact Us</a></p>
-            	</div>
+              
             </div>
           </div>
        </div>
@@ -74,10 +71,7 @@
           <img class="image1" src="images/bg-3.jpg" alt="Third slide" >
           <div class="container">
             <div class="carousel-caption">
-              <div class="carousel-caption">
-              		<h1>Example headline.</h1>
-              		<p><a class="btn btn-lg btn-primary" href="#" role="button">ontact Us</a></p>
-            	</div>
+              
             </div>
           </div>
         </div>

@@ -1,0 +1,40 @@
+
+
+
+#image1{
+   background-image:url("images/bg-1.jpg");
+   height:700px;
+   width:200px;
+   padding-right:1000px;
+}
+
+.text1{
+
+     text-align:center;
+   }
+
+.screenshot{
+
+   
+   height:150px;
+   width:200px;
+   padding-right:30;
+}
+ .screenshotcraft{
+
+   
+   height:150px;
+   width:500px;
+  
+   
+}
+
+#btn{
+
+   padding-right:70;
+}
+
+#footertext{
+
+    padding-right:30px;
+}
