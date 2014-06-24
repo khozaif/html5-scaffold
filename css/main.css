@@ -15,10 +15,7 @@ body{
 .image1{
       
     background-image: url("images/bg-1.jpg");
-    height:1200px;
-    width:1200px; 
-    top:0px;
-    padding-left:100px;
+    
    
 }
 
@@ -31,16 +28,14 @@ body{
 .screenshot{
 
    
-   height:150px;
-   width:200px;
+  
    padding-right:30;
    
 }
  .screenshotcraft{
 
    
-   height:150px;
-   width:500px;
+   
   background-color:green;
    
 }
@@ -83,26 +78,26 @@ body{
 
 .item2{
       
-        width:1100px;
+      
 	margin-left:100px; 
         background-color:#0CF22F;
-        top:0px;
+    
 }
 
 .item3{
       
-        width:1100px;
+       
 	margin-left:100px; 
         background-color:#FFFFFF;
-        top:4000px;
+        ;
 }
 
 .item4{
 
-        width:1100px;
+        
 	margin-left:100px; 
         background-color:#25383C;
-        top:0px;
+        
 
 }
 

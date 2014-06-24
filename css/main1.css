@@ -1,0 +1,44 @@
+
+
+
+          
+
+         .textalignment{
+
+                text-align:center;
+
+             }
+
+          .iphoneimage{
+
+               width:100px;
+               height:200px;
+              
+             }
+
+          .phone{
+
+            height:400px;
+            
+         }
+
+      .textheadingdgrid{
+
+
+              text-color:green;
+       }
+
+       .screenshorts{
+
+         border:solid;
+         border-color:green;
+}
+.pad{
+
+  background-color:green;
+}
+
+.last{
+
+    border-color:yellow;
+}

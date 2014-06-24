@@ -104,5 +104,12 @@ body{
         background-color:#25383C;
         top:0px;
 
+}
+
+.text2{
+
+     text-align:center;
+     text-color:#FFFFFF; 
+   }
 
 
